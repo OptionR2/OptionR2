@@ -1,0 +1,7 @@
+- 👋 Hello, this is @OptionR2
+- 👀 My interests are... smartphone modding and custom ROMs
+- 🌱 Currently studying... custom ROMs/AOSP builds/creating .bat scripts to flash ROMs/C#/Python/HTML/CSS, etc.
+- 💞️ My areas of cooperation are... smartphones/custom ROMs/AOSP/Hacintosh
+- 📫 Please contact me at... 0986koshi@gmail.com
+- 😄 Pronouns: ... nothing in particular ()
+- ⚡ Trivia: ... nothing in particular
